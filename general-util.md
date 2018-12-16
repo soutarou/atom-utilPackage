@@ -15,6 +15,8 @@ Atomを使う上で便利なPackage
   - outline : ツリービューやタブのアイコンを拡張子ごとに表示
 - [script][script]
   - outline : スクリプト実行
+- [platformio-ide-terminal][pi-terminal]
+  - outline : atom内でターミナルを起動する
 
 <!-- ref link -->
 [beautify]:https://atom.io/packages/atom-beautify "atom-beautify"
@@ -24,3 +26,4 @@ Atomを使う上で便利なPackage
 [ficon]:https://atom.io/packages/file-icons "file-icons"
 [script]:https://atom.io/packages/script "script"
 [ac-plus]:https://atom.io/packages/autocomplete-plus "autocomplete-plus"
+[pi-terminal]:https://atom.io/packages/platformio-ide-terminal "platformio-ide-terminal"
